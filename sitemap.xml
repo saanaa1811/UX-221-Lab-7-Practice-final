@@ -22,6 +22,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/need-someone-to-set-up-my-smart-tv-wi-fi/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/creative-help-birthday-decorator-needed-for-small-room/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/need-help-organizing-closet-minimalist-touch-wanted/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/hand-lettering-needed-for-chalkboard-cafe-menu/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
