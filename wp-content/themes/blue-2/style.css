@@ -11,11 +11,11 @@ Template:       twentytwentyfive
     --secondary-color: #FF6B6B;
     --accent-color: #FFD93D;
     --text-color: #1A1A1A;
-    --font-family: 'YourCustomFont', sans-serif;
+    --font-family: Times new roman;
   }
   
   body {
     font-family: var(--font-family);
     color: var(--text-color);
-    background-color: #fff;
+    background-color: #bdcdec;
   }
