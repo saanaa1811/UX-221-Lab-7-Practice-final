@@ -17,7 +17,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/my-account/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/login/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/registration/
         </loc>
     </url>
     <url>
@@ -38,6 +48,11 @@
     <url>
         <loc>
             http://localhost:8000/products/hand-lettering-needed-for-chalkboard-cafe-menu/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/short-video-needed-for-instagram-15-second-edit/
         </loc>
     </url>
     <url>
