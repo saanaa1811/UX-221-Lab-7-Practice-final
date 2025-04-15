@@ -58,3 +58,7 @@
 
 2025-04-14T23:59:02+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX-221-Lab-7-Practice-final/.wordpress/wp-includes/functions.php on line 650
 
+2025-04-15T00:00:49+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX-221-Lab-7-Practice-final/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/activation.php on line 366
+
+2025-04-15T00:00:54+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /workspaces/UX-221-Lab-7-Practice-final/.wordpress/wp-content/plugins/ecommerce-product-catalog/templates.php on line 163
+
